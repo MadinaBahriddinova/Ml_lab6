@@ -1,3 +1,6 @@
+//Lab6
+//Madina Bahriddinova
+//Student id:220155
 import 'package:flutter/material.dart';
 
 void main() {
